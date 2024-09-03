@@ -27,7 +27,7 @@ La documentacion va a contar con el siguiente indice.
 
 A continuacion se detalla el proceso para lograr la ejecucion de la aplicacion. Antes de realizar dicho proceso tener en cuenta de tener descargadas las herramientas descriptas en el paso anterior.
 
-    1. Clonar el repositorio de github y utilizar la rama develop.
+    1. Clonar el repositorio de github y utilizar la rama main.
     
     2. Abrir el proyecto en Visual Studio Code con las extensiones descargadas.
     
